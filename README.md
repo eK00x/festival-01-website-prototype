@@ -2,11 +2,11 @@
 
 ### Project Preview
 
-| Home & Info | Line-Up & Registration |
+| **Home & Info** | **Mobile View of Registration** |
 | :---: | :---: |
-| <img src="./1.1-screenshot.png" width="350"/> | <img src="./1.2-screenshot.png" width="350"/> |
-| **Impressum** | **Mobile View** |
-| <img src="./1.3-screenshot.png" width="350"/> | <img src="./1.4-screenshot.png" width="350"/> |
+| <img src="./1.1-screenshot.png" width="350"/> | <img src="./1.3-screenshot.png" width="350"/> |
+| **Impressum** | **Mobile View of Line-Up** |
+| <img src="./1.4-screenshot.png" width="350"/> | <img src="./1.2-screenshot.png" width="350"/> |
 
 ## Context
 This project was developed as the first milestone within the "Web Technologies" module at my university. The primary objective was to apply core web development principles by building a fully responsive, multi-page website from scratch using only semantic HTML5 and CSS.
