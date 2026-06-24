@@ -1,12 +1,12 @@
 # T01 Rock am See - Festival 2025 (Web Technologies)
 
 ### Project Preview
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="./1.1-screenshot.png" alt="Home Page" width="300"/>
-  <img src="./1.2-screenshot.png" alt="Festival Details" width="300"/>
-  <img src="./1.3-screenshot.png" alt="Volunteer Registration" width="300"/>
-  <img src="./1.4-screenshot.png" alt="Legal Information" width="300"/>
-</div>
+
+| Home & Info | Line-Up & Registration |
+| :---: | :---: |
+| <img src="./1.1-screenshot.png" width="350"/> | <img src="./1.2-screenshot.png" width="350"/> |
+| **Impressum** | **Mobile View** |
+| <img src="./1.3-screenshot.png" width="350"/> | <img src="./1.4-screenshot.png" width="350"/> |
 
 ## Context
 This project was developed as the first milestone within the "Web Technologies" module at my university. The primary objective was to apply core web development principles by building a fully responsive, multi-page website from scratch using only semantic HTML5 and CSS.
