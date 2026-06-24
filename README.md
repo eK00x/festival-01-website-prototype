@@ -1,7 +1,10 @@
 # T01 Rock am See - Festival 2025 (Web Technologies)
 
+## Context
+This project was developed as the first milestone within the "Web Technologies" module at my university. The primary objective was to apply core web development principles by building a fully responsive, multi-page website from scratch using only semantic HTML5 and CSS.
+
 ## Description
-The Website is the online representation of the German summer music festival "Rock am See". It includes four pages, all of which can be accessed via the top navigation bar. In addition to fun facts, tips and some testimonials of past visiters of the festival, the site provides  a lineup of the bands that will be playing on the festival. On the tab "Helfer:innen" it is also possible to register as a volunteer for the festival. The "Impressum" tab presents all legal information about the site's owners.
+The website serves as the online representation of the German summer music festival "Rock am See". It includes four pages, all of which can be accessed via the top navigation bar. In addition to fun facts, tips, and testimonials from past festival visitors, the site provides a lineup of the bands. The "Helfer:innen" tab allows users to register as volunteers, and the "Impressum" page covers all legal information.
 
 ## How to Start/Use the Website
 Step 1: Download the Folder with all the HTML files and the CSS file, as well as the folder "Photos".
@@ -11,11 +14,11 @@ Step 4: Navigate through the Website via the navigation bar on the top and enjoy
 
 
 ## DummyJSON Login
-The login was attempted with the credentials:
+The application integrates with the DummyJSON API to handle user authentication. To test the login functionality, use the following credentials:
 Username: emilys
 Password: emilyspass
- 
-The resulting token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NDYwMTU0MDQsImV4cCI6MTc0NjAxOTAwNH0.Gflb43CGd3SYrqA9Xj3tBbNGJiOxHiwALzEGOiZDle4"
+
+Note: The application successfully retrieves a JWT upon valid authentication, which is then used to authorize subsequent API requests.
 
 ## Used tools
 The logo was created with Canva AI
