@@ -2,7 +2,7 @@
 
 ### Project Preview
 
-| **Home & Info** | **Mobile View of Registration** |
+| **Home & Info** | **Registration** |
 | :---: | :---: |
 | <img src="./1.1-screenshot.png" width="350"/> | <img src="./1.3-screenshot.png" width="350"/> |
 | **Impressum** | **Mobile View of Line-Up** |
